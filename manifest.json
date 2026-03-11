@@ -1,9 +1,9 @@
 {
   "id": "jimeng-image-generator",
-  "name": "即梦AI图片生成",
+  "name": "Jimeng AI Image Generator",
   "version": "1.0.0",
   "minAppVersion": "0.15.0",
-  "description": "通过即梦AI生成图片并插入到Obsidian文档中，支持文生图和图生图功能",
+  "description": "Generate images using Jimeng AI and insert them into  documents, supporting text-to-image and image-to-image generation",
   "author": "yelj12",
   "authorUrl": "https://github.com/yelj12",
   "isDesktopOnly": true
